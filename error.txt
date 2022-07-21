@@ -1,0 +1,9 @@
+error pada Ui edulearn
+
+1. about2.html
+	file Roboto-Regular.ttf tidak ditemukan
+2. events-details.html
+	file map-marker.png tidak ditemuakan
+	InvalidKeyMapError : google maps javascript API
+3. contact.html
+	InvalidKeyMapError : google maps javascript API
